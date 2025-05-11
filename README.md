@@ -43,6 +43,8 @@ Shows the distribution of passenger ages.
 Helps visualize outliers in the ticket fare.
 
 ![Fare Boxplot](Visualizations/fare_boxplot.png)
+# Dataset Link:
+(https://www.kaggle.com/competitions/titanic/data)
 ---
 
 ## 💡 Key Insights
